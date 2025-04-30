@@ -32,23 +32,4 @@ Each file includes two columns:
 - Matplotlib (for plotting)
 - (Optional) scikit-learn or other libraries for polynomial fitting
 
-## Output Requirements
 
-Your submission must include:
-- A **report** (`report.pdf`) summarizing:
-  - Your approach
-  - All generated plots
-  - Key observations and findings
-- Your **source code** (`.py` files), including:
-  - Code for fitting models
-  - Code for plotting results
-  - Code for computing SSE
-
-**Do not compress your submission. Submit all files individually.**
-
-## Usage
-
-To run the code:
-
-```bash
-python polynomial_regression.py
