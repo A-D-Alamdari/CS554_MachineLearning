@@ -1,4 +1,4 @@
-# CS554 Spring 2025 - Homework 1: Polynomial Regression
+# CS554 Spring 2025 - Homework 1: Polynomial Regression (Description)
 
 ## Overview
 
