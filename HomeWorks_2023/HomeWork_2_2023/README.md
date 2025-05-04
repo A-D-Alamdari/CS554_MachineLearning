@@ -11,6 +11,15 @@ In this assignment, you will implement the **k-means clustering algorithm** from
   - **First column**: Label (to be ignored)
   - **Remaining 784 columns**: Flattened 28×28 grayscale image pixel values
 
+> 📦 **Download Dataset**
+>
+> 🧪 [Download `fashion_mnist.csv`](https://drive.google.com/drive/folders/1VgTbWu6WCLZoA-On0H1_l3ujGeoWAlt5?usp=sharing)
+> 
+> Use this file to implement the **k-means clustering algorithm**.
+
+
+
+
 ## Task
 
 For **k ∈ {10, 20, 30}**, perform the following:
